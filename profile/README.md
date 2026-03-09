@@ -10,4 +10,4 @@ Then add a package, again in Julia package mode:
 ```add PackageName``` 
 
 ## Internal resources
-[Useful info for group members]([https://github.com/compbayes/info/blob/main/git_workflow.md](https://github.com/compbayes/info)) 
+[Useful info for group members](https://github.com/compbayes/info/blob/main/git_workflow.md](https://github.com/compbayes/info)
